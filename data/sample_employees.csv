@@ -1,0 +1,61 @@
+employee_id,name,department,title,salary,hire_date,performance_rating,city,is_remote
+E001,Jennifer Anderson,Finance,Financial Analyst,71045.03,2024-02-15,4.8,San Francisco,False
+E002,Donald Walker,Marketing,Marketing Manager,112464.71,2019-08-18,1.6,San Francisco,True
+E003,Jason Clark,Engineering,Lead Engineer,163180.25,2020-09-09,4.3,Chicago,False
+E004,Mark Wright,Finance,CFO,203263.03,2021-06-11,3.2,Seattle,False
+E005,Brian Thomas,HR,Senior HR Manager,116088.05,2022-07-08,4.4,Austin,True
+E006,Stephanie Harris,Marketing,CMO,185261.39,2021-11-26,4.3,San Francisco,False
+E007,Donna Perez,Engineering,Senior Engineer,135068.73,2024-02-28,4.4,New York,False
+E008,Carol Martinez,Engineering,Senior Engineer,132299.36,2018-08-26,4.9,Chicago,False
+E009,Jason Wright,Engineering,Lead Engineer,165570.24,2021-06-21,3.9,Austin,True
+E010,Amanda Jackson,Finance,Financial Analyst,64695.4,2019-12-03,2.7,New York,True
+E011,Laura Johnson,HR,HR Manager,87350.03,2018-06-26,1.2,Chicago,False
+E012,Anthony Torres,HR,HR Manager,76104.94,2023-03-06,1.7,Seattle,False
+E013,Donna Martinez,Finance,Senior Financial Analyst,97441.68,2019-08-21,2.0,Chicago,True
+E014,William Jones,HR,Senior HR Manager,110328.33,2021-06-19,2.2,Austin,False
+E015,Matthew Walker,HR,Senior HR Manager,95976.51,2018-04-13,3.3,Seattle,False
+E016,Kevin Sanchez,Marketing,Marketing Analyst,69558.89,2020-01-19,4.5,New York,False
+E017,Daniel Anderson,Marketing,Senior Marketing Analyst,87141.3,2023-04-20,2.0,San Francisco,True
+E018,Robert Nguyen,Engineering,Lead Engineer,163658.31,2020-12-05,1.4,Chicago,False
+E019,Ronald Wright,HR,HR Manager,75019.87,2020-09-17,4.7,San Francisco,False
+E020,Lisa Davis,HR,Senior HR Manager,112396.78,2021-02-05,4.0,San Francisco,False
+E021,Betty Smith,Finance,Finance Manager,112709.09,2020-09-04,2.8,Chicago,False
+E022,Donald Johnson,Marketing,Marketing Analyst,,2022-09-11,4.7,San Francisco,True
+E023,Linda Rodriguez,HR,Senior HR Manager,109477.18,2018-01-10,5.0,New York,True
+E024,Nancy Nelson,Sales,Senior Sales Rep,77772.92,2023-12-18,2.7,San Francisco,False
+E025,Sarah Williams,Engineering,Staff Engineer,178469.57,2023-06-07,2.8,San Francisco,False
+E026,Carol Thompson,Engineering,Lead Engineer,156333.98,2018-07-09,1.8,New York,False
+E027,Joshua Johnson,Engineering,Senior Engineer,139251.13,2018-06-08,5.0,Seattle,True
+E028,Edward Anderson,Engineering,Senior Engineer,137591.49,2020-03-26,4.6,New York,False
+E029,Stephanie Lopez,Sales,Senior Sales Rep,80804.31,2018-11-28,1.1,New York,False
+E030,Thomas Brown,Sales,Sales Manager,95552.34,2019-12-14,3.1,New York,False
+E031,Michael Lewis,HR,Senior HR Manager,105397.14,2022-04-20,1.2,Seattle,False
+E032,Donald Sanchez,HR,HR Coordinator,42790.73,2021-11-04,3.0,Austin,True
+E033,John Rodriguez,Engineering,Lead Engineer,158248.92,2020-10-21,,Chicago,False
+E034,Joshua Ramirez,Finance,Finance Manager,123611.46,2018-12-04,4.4,Seattle,True
+E035,Anthony Perez,HR,VP HR,165523.64,2024-08-13,2.7,New York,False
+E036,Nancy Martinez,HR,Senior HR Manager,109953.24,2023-08-03,1.4,New York,True
+E037,Nancy Rodriguez,HR,HR Coordinator,51679.66,2022-01-19,4.8,Seattle,False
+E038,Kevin Carter,Engineering,Staff Engineer,170607.94,2021-12-02,4.9,Seattle,False
+E039,Susan Martinez,Marketing,Marketing Analyst,61558.37,2023-08-08,4.4,Chicago,False
+E040,Stephanie Ramirez,Engineering,Lead Engineer,157223.0,2024-09-25,4.3,Seattle,True
+E041,Sarah Hall,Finance,Finance Manager,110868.6,2024-05-11,2.4,San Francisco,True
+E042,Melissa Green,Finance,CFO,163479.27,2018-02-24,3.1,Austin,False
+E043,Karen Campbell,HR,Senior HR Manager,94722.28,2020-10-20,1.3,New York,True
+E044,Sarah Lewis,Sales,Sales Rep,58479.37,2023-07-16,3.4,Austin,False
+E045,Linda Jackson,Sales,Sales Rep,,2023-11-19,2.9,Chicago,True
+E046,Patricia Smith,Sales,VP Sales,179377.83,2019-05-07,4.1,Chicago,False
+E047,Melissa Ramirez,Marketing,Marketing Analyst,50154.6,2019-03-13,3.1,San Francisco,False
+E048,Robert Ramirez,Engineering,Staff Engineer,185852.93,2018-08-03,4.4,Seattle,False
+E049,Anthony Jackson,Finance,CFO,195474.95,2018-07-01,4.9,San Francisco,False
+E050,Michael Thomas,Marketing,Marketing Analyst,58734.24,2021-10-13,3.1,Austin,False
+E051,William Jones,Marketing,Senior Marketing Analyst,81661.37,2022-11-04,3.1,San Francisco,False
+E052,Elizabeth Taylor,Marketing,Senior Marketing Analyst,79725.38,2019-03-20,1.6,New York,True
+E053,Timothy Nguyen,HR,VP HR,160177.83,2021-11-19,3.6,Seattle,False
+E054,Donald Lewis,Marketing,Senior Marketing Analyst,83795.26,2023-05-26,2.1,New York,False
+E055,Mark Williams,Finance,Financial Analyst,66208.16,2018-06-27,2.1,New York,False
+E056,Stephanie Torres,HR,HR Coordinator,47846.54,2023-04-11,3.4,Seattle,True
+E057,Laura Perez,Engineering,Staff Engineer,163105.06,2023-02-17,3.6,New York,True
+E058,Michelle Hernandez,HR,VP HR,150962.74,2020-06-10,2.5,Chicago,True
+E059,Emily Baker,Marketing,Marketing Analyst,56593.82,2021-05-09,3.9,Seattle,True
+E060,Elizabeth Thompson,Marketing,Marketing Analyst,61654.79,2020-11-23,3.6,San Francisco,True
