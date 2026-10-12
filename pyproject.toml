@@ -40,6 +40,9 @@ test = [
 [project.scripts]
 tda-agent = "src.agent.service:main"
 
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
+
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 python_files = ["test_*.py"]

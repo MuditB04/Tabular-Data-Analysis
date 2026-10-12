@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.git/
+artifacts/
+*.db
+.pytest_cache/
+*.egg-info/
