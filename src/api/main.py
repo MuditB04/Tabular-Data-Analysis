@@ -8,7 +8,7 @@ from pathlib import Path
 from typing import Optional
 from fastapi import FastAPI, File, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import FileResponse
+from fastapi.responses import FileResponse, RedirectResponse
 
 from src.agent.service import AgentService
 from src.api.schemas import (
@@ -38,6 +38,12 @@ app.add_middleware(
 
 # Singleton service instance
 service = AgentService()
+
+
+@app.get("/", include_in_schema=False)
+def root():
+    """Send visitors to the interactive API docs."""
+    return RedirectResponse(url="/docs")
 
 
 @app.get("/health", response_model=HealthResponse)
